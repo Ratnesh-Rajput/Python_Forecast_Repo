@@ -1,0 +1,6 @@
+Flask
+pandas 
+hdbcli
+hana_ml
+statsmodels
+matplotlib
